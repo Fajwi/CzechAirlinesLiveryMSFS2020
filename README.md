@@ -10,7 +10,10 @@
 
 # Changelog: 
 V1.0
-MSFS 2020 compatibility
+ -  MSFS 2020 compatibility
+
+# Known Issues:
+ -  CSA logo color
 
 # CREDITS:
 Thank you so much for testing!
