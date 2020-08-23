@@ -14,11 +14,3 @@ V1.0
 
 # Known Issues:
  -  CSA logo color
-
-# CREDITS:
-Thank you so much for testing!
-1. Patrik Figura - ig: https://www.instagram.com/patrikfigura/
-2. Adam Mach -     ig: https://www.instagram.com/adamtheflyer/
-
-
-
