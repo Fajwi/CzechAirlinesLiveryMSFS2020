@@ -13,4 +13,6 @@ V1.0
  -  MSFS 2020 compatibility
 
 # Known Issues:
- -  CSA logo color
+ -  CSA LOGO - color
+ 
+
